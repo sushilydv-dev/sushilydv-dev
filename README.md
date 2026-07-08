@@ -38,8 +38,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushilydv-dev&layout=compact&langs_count=7&theme=tokyonight" alt="Sushil's Top Languages" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushilydv-dev&theme=tokyonight" alt="Sushil's GitHub Streak" height="165" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilydv-dev&show_icons=true&locale=en&layout=compact" alt="sushilydv-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilydv-dev&" alt="sushilydv-dev" /></p>
