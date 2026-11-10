@@ -1,56 +1,62 @@
-<h1 align="center">Sushil Yadav</h1>
-
 <p align="center">
-  <b>Full Stack Software Engineer</b><br/>
-  Building scalable, production-grade systems across web, mobile and real-time computer vision.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1633,100:2563EB&height=200&section=header&text=Sushil%20Yadav&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20Products%20%C2%B7%20Computer%20Vision&descSize=19&descAlignY=58&animation=fadeIn" alt="Sushil Yadav: Full Stack Engineer, AI products, computer vision" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://sushildev.in"><img src="https://img.shields.io/badge/Portfolio-sushildev.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1300&color=2563EB&center=true&vCenter=true&width=760&lines=I+turn+ideas+into+shipped+products;AI+assistants+that+answer+from+your+own+data;Web+and+mobile+apps%2C+from+MVP+to+production;Available+for+freelance+projects+and+full-time+roles" alt="I turn ideas into shipped products. AI assistants that answer from your own data. Web and mobile apps, from MVP to production. Available for freelance projects and full-time roles." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_work-22C55E?style=for-the-badge" alt="Available for work" />
+  <a href="https://sushildev.in"><img src="https://img.shields.io/badge/Hire_me-sushildev.in-0B1633?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hire me at sushildev.in" /></a>
   <a href="https://www.linkedin.com/in/sushil-yadav-125937279"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
----
+I'm a full stack engineer who helps startups and teams **ship AI-powered products that people trust**. I build the whole thing, from the database and APIs to the interface and the release, and I specialise in AI that runs on your own infrastructure, so your data stays yours.
 
-### About
+## How I can help
 
-I'm a full stack engineer who owns features end to end: system design, API and data modelling, front-end architecture, deployment and the work after launch. I build software that is fast, observable and easy for a team to change, and I'm most at home where product and infrastructure meet. I contribute to open source and enjoy reviewing and mentoring as much as writing code.
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>🤖 AI assistants on your data</b><br/>Chat and search over your documents that answers with citations, runs privately on your own servers, and supports multiple languages.</td>
+    <td width="50%" valign="top"><b>🚀 Web and mobile apps</b><br/>From a first MVP to a production launch, with React, React Native and Node.js: fast, accessible and easy to grow.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>🛡️ APIs and back ends</b><br/>Secure, scalable services with authentication, roles, multi-tenant workspaces, real-time updates and rate limiting.</td>
+    <td width="50%" valign="top"><b>✋ Computer vision and desktop apps</b><br/>Real-time camera features such as hand tracking, plus signed macOS and Windows apps with automated releases.</td>
+  </tr>
+</table>
 
-### Engineering focus
+## Working with me
 
-- **System design and architecture**: service boundaries, API contracts and data models that hold up as products and teams grow
-- **Back-end engineering**: REST services in Node.js and Python, with authentication, validation, background jobs and rate limiting
-- **Data and performance**: relational and document modelling in PostgreSQL and MongoDB, query tuning, and caching with Redis
-- **Front-end architecture**: component systems, state management and performance budgets in React and React Native
-- **Real-time computer vision**: low-latency video pipelines and on-device inference with OpenCV and Python
-- **Delivery and operations**: containerised builds with Docker, Linux environments, CI/CD pipelines and automated releases
+- **Clear scope up front**: a written plan and estimate before any code
+- **Regular demos**: you see working software early and often, not just status updates
+- **Production quality**: tested, documented code with a clean handover your team can own
+- **End-to-end ownership**: one engineer from idea to deployment, so nothing falls between the cracks
 
-### Core stack
+## Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,flask,react,vite,tailwind,postgres,mongodb,redis,opencv,docker,linux,githubactions,git&perline=8&theme=light" alt="Python, JavaScript, Node.js, Express, Flask, React, Vite, Tailwind CSS, PostgreSQL, MongoDB, Redis, OpenCV, Docker, Linux, GitHub Actions, Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/llama.cpp-1F2937?style=flat-square" alt="llama.cpp" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-<sub>Also: MySQL · Firebase · Tailwind CSS · GitHub Actions · Git</sub>
+## Let's work together
 
-### How I work
+<p align="center">
+  <b>Have a project in mind, or a role to fill?</b> I reply to every message.<br/><br/>
+  <a href="https://sushildev.in"><img src="https://img.shields.io/badge/Start_a_project-2563EB?style=for-the-badge" alt="Start a project" /></a>
+  <a href="https://www.linkedin.com/in/sushil-yadav-125937279"><img src="https://img.shields.io/badge/Hire_me_full--time-0B1633?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire me full-time on LinkedIn" /></a>
+</p>
 
-- **Ship small, ship often**: incremental changes behind clear interfaces, with CI on every change
-- **Design for failure**: timeouts, retries, idempotency and limits are part of the first version, not the incident review
-- **Measure before optimising**: profiling, query plans and real traffic over guesswork
-- **Leave it better**: tests, documentation and readable code are part of "done"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1633&height=100&section=footer" alt="" width="100%" />
+</p>
 
----
-
-<p align="center">Open to senior full stack roles and technical collaboration · <a href="https://sushildev.in">sushildev.in</a></p>
